@@ -1,4 +1,4 @@
-const backendDomain = "https://authentication-using-mern-xi.vercel.app"
+const backendDomain = "https://backend-seven-gamma-86.vercel.app"
 
 const summaryApi = {
     signup : {
