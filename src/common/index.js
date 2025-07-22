@@ -1,4 +1,4 @@
-const backendDomain = "http://localhost:5000"
+const backendDomain = "https://backend-seven-gamma-86.vercel.app"
 
 const summaryApi = {
     signup : {
